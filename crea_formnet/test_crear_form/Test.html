@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+
+    <input type="button" id="listarTipoControl" value="Listar" />
+    
+    <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+    <script type="text/javascript">
+
+    $(document).ready(function () {
+
+        $("#listarTipoControl").click(function () {
+            
+            $.get("http://localhost:49931/api/Default")
+              .done(function (data) {
+                  console.log(data);
+              }).error(function (err) {
+                  console.log('error');
+                  alert(err.responseText);
+              });
+            ;
+
+
+        });
+    });
+
+    </script>
+
+</body>
+</html>
