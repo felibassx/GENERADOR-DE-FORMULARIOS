@@ -24,6 +24,12 @@ C:/Users/fhernandez/Dropbox/PROYECTOS-PERSONALES/GENERADOR DE FORMULARIOS/crea_f
 /Volumes/RESPALDOS/Dropbox/PROYECTOS-PERSONALES/GENERADOR DE FORMULARIOS/crea_formnet/dal/obj/Debug/dal.csproj.CoreCompileInputs.cache
 /Volumes/RESPALDOS/Dropbox/PROYECTOS-PERSONALES/GENERADOR DE FORMULARIOS/crea_formnet/dal/obj/Debug/dal.dll
 /Volumes/RESPALDOS/Dropbox/PROYECTOS-PERSONALES/GENERADOR DE FORMULARIOS/crea_formnet/dal/obj/Debug/dal.pdb
-C:\Users\fhernandez\Dropbox\PROYECTOS-PERSONALES\GENERADOR DE FORMULARIOS\crea_formnet\dal\obj\Debug\dal.csprojResolveAssemblyReference.cache
-C:\Users\fhernandez\Dropbox\PROYECTOS-PERSONALES\GENERADOR DE FORMULARIOS\crea_formnet\dal\obj\Debug\dal.dll
-C:\Users\fhernandez\Dropbox\PROYECTOS-PERSONALES\GENERADOR DE FORMULARIOS\crea_formnet\dal\obj\Debug\dal.pdb
+/Volumes/RESPALDOS/proyectosweb-git/GENERADOR DE FORMULARIOS/crea_formnet/dal/bin/Debug/dal.dll
+/Volumes/RESPALDOS/proyectosweb-git/GENERADOR DE FORMULARIOS/crea_formnet/dal/bin/Debug/dal.pdb
+/Volumes/RESPALDOS/proyectosweb-git/GENERADOR DE FORMULARIOS/crea_formnet/dal/bin/Debug/dto.dll
+/Volumes/RESPALDOS/proyectosweb-git/GENERADOR DE FORMULARIOS/crea_formnet/dal/bin/Debug/dto.pdb
+/Volumes/RESPALDOS/proyectosweb-git/GENERADOR DE FORMULARIOS/crea_formnet/dal/bin/Debug/Newtonsoft.Json.xml
+/Volumes/RESPALDOS/proyectosweb-git/GENERADOR DE FORMULARIOS/crea_formnet/dal/obj/Debug/dal.csprojResolveAssemblyReference.cache
+/Volumes/RESPALDOS/proyectosweb-git/GENERADOR DE FORMULARIOS/crea_formnet/dal/obj/Debug/dal.csproj.CoreCompileInputs.cache
+/Volumes/RESPALDOS/proyectosweb-git/GENERADOR DE FORMULARIOS/crea_formnet/dal/obj/Debug/dal.dll
+/Volumes/RESPALDOS/proyectosweb-git/GENERADOR DE FORMULARIOS/crea_formnet/dal/obj/Debug/dal.pdb

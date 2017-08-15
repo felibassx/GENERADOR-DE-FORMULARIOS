@@ -1,5 +1,9 @@
 ﻿<Properties StartupConfiguration="{12934327-894A-49AB-8B87-B0D699691E6F}|">
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="crud_gui/Views/CrudTipoCampo.html">
+    <Files>
+      <File FileName="crud_gui/Views/CrudTipoCampo.html" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

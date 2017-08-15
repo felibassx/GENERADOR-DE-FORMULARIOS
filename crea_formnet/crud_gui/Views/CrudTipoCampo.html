@@ -149,7 +149,7 @@
             $("#ddl_tipo_campo").prop('disabled','disabled')
             $("#ddl_tipo_campo").empty();
 
-            $.get("http://localhost:53080/api/TipoControlCrud/GetTipoCampo")
+            $.get("http://127.0.0.1:8080/api/TipoControlCrud/GetTipoCampo")
               .done(function (data) {
                   console.info(data)
                   $("#ddl_tipo_campo").append('<option value=-1>--Seleccione--</option>');
@@ -173,7 +173,7 @@
 
         function llenarEventos() {
             $("#ddl_evento").prop('disabled', 'disabled')
-            $.get("http://localhost:53080/api/TipoControlCrud/Geteventos")
+            $.get("http://127.0.0.1:8080/api/TipoControlCrud/Geteventos")
               .done(function (data) {
                   console.info(data)
                   $("#ddl_evento").append('<option value=-1>--Seleccione--</option>');
@@ -201,9 +201,9 @@
 
             //$("#ddl_evento").empty();
 
-            //$.get("http://localhost:53080/api/TipoControlCrud/Geteventos")
+            //$.get("http://127.0.0.1:8080/api/TipoControlCrud/Geteventos")
             //  .done(function (data2) {
-                  
+
             //      $("#ddl_evento").append('<option value=-1>--Seleccione--</option>');
             //      $.each(data2, function (i2, d2) {
             //          console.log(d2);
@@ -225,7 +225,7 @@
             $("#ddl_grp_controles").prop('disabled', 'disabled')
             $("#ddl_grp_controles").empty();
 
-            $.get("http://localhost:53080/api/TipoControlCrud/GetGrupoControl")
+            $.get("http://127.0.0.1:8080/api/TipoControlCrud/GetGrupoControl")
               .done(function (data) {
                   console.info(data)
                   $("#ddl_grp_controles").append('<option value=-1>--Seleccione--</option>');

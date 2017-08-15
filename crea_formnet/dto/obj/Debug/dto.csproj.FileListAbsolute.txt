@@ -14,6 +14,9 @@ C:/Users/fhernandez/Dropbox/PROYECTOS-PERSONALES/GENERADOR DE FORMULARIOS/crea_f
 /Volumes/RESPALDOS/Dropbox/PROYECTOS-PERSONALES/GENERADOR DE FORMULARIOS/crea_formnet/dto/obj/Debug/dto.csproj.CoreCompileInputs.cache
 /Volumes/RESPALDOS/Dropbox/PROYECTOS-PERSONALES/GENERADOR DE FORMULARIOS/crea_formnet/dto/obj/Debug/dto.dll
 /Volumes/RESPALDOS/Dropbox/PROYECTOS-PERSONALES/GENERADOR DE FORMULARIOS/crea_formnet/dto/obj/Debug/dto.pdb
-C:\Users\fhernandez\Dropbox\PROYECTOS-PERSONALES\GENERADOR DE FORMULARIOS\crea_formnet\dto\obj\Debug\dto.csprojResolveAssemblyReference.cache
-C:\Users\fhernandez\Dropbox\PROYECTOS-PERSONALES\GENERADOR DE FORMULARIOS\crea_formnet\dto\obj\Debug\dto.dll
-C:\Users\fhernandez\Dropbox\PROYECTOS-PERSONALES\GENERADOR DE FORMULARIOS\crea_formnet\dto\obj\Debug\dto.pdb
+/Volumes/RESPALDOS/proyectosweb-git/GENERADOR DE FORMULARIOS/crea_formnet/dto/bin/Debug/dto.dll
+/Volumes/RESPALDOS/proyectosweb-git/GENERADOR DE FORMULARIOS/crea_formnet/dto/bin/Debug/dto.pdb
+/Volumes/RESPALDOS/proyectosweb-git/GENERADOR DE FORMULARIOS/crea_formnet/dto/obj/Debug/dto.csprojResolveAssemblyReference.cache
+/Volumes/RESPALDOS/proyectosweb-git/GENERADOR DE FORMULARIOS/crea_formnet/dto/obj/Debug/dto.csproj.CoreCompileInputs.cache
+/Volumes/RESPALDOS/proyectosweb-git/GENERADOR DE FORMULARIOS/crea_formnet/dto/obj/Debug/dto.dll
+/Volumes/RESPALDOS/proyectosweb-git/GENERADOR DE FORMULARIOS/crea_formnet/dto/obj/Debug/dto.pdb

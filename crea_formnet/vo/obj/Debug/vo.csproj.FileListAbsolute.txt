@@ -14,6 +14,9 @@ C:/Users/felibass/Dropbox/PROYECTOS-PERSONALES/GENERADOR DE FORMULARIOS/crea_for
 /Volumes/RESPALDOS/Dropbox/PROYECTOS-PERSONALES/GENERADOR DE FORMULARIOS/crea_formnet/vo/obj/Debug/vo.csproj.CoreCompileInputs.cache
 /Volumes/RESPALDOS/Dropbox/PROYECTOS-PERSONALES/GENERADOR DE FORMULARIOS/crea_formnet/vo/obj/Debug/vo.dll
 /Volumes/RESPALDOS/Dropbox/PROYECTOS-PERSONALES/GENERADOR DE FORMULARIOS/crea_formnet/vo/obj/Debug/vo.pdb
-C:\Users\fhernandez\Dropbox\PROYECTOS-PERSONALES\GENERADOR DE FORMULARIOS\crea_formnet\vo\obj\Debug\vo.csprojResolveAssemblyReference.cache
-C:\Users\fhernandez\Dropbox\PROYECTOS-PERSONALES\GENERADOR DE FORMULARIOS\crea_formnet\vo\obj\Debug\vo.dll
-C:\Users\fhernandez\Dropbox\PROYECTOS-PERSONALES\GENERADOR DE FORMULARIOS\crea_formnet\vo\obj\Debug\vo.pdb
+/Volumes/RESPALDOS/proyectosweb-git/GENERADOR DE FORMULARIOS/crea_formnet/vo/bin/Debug/vo.dll
+/Volumes/RESPALDOS/proyectosweb-git/GENERADOR DE FORMULARIOS/crea_formnet/vo/bin/Debug/vo.pdb
+/Volumes/RESPALDOS/proyectosweb-git/GENERADOR DE FORMULARIOS/crea_formnet/vo/obj/Debug/vo.csprojResolveAssemblyReference.cache
+/Volumes/RESPALDOS/proyectosweb-git/GENERADOR DE FORMULARIOS/crea_formnet/vo/obj/Debug/vo.csproj.CoreCompileInputs.cache
+/Volumes/RESPALDOS/proyectosweb-git/GENERADOR DE FORMULARIOS/crea_formnet/vo/obj/Debug/vo.dll
+/Volumes/RESPALDOS/proyectosweb-git/GENERADOR DE FORMULARIOS/crea_formnet/vo/obj/Debug/vo.pdb
